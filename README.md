@@ -50,4 +50,4 @@ As result we get a video with the contour of the intruder highlighted and the co
 Also, we generate a txt file that include identified objects information:
 * Frame number
 * Number of identified objects
-* Identifier, area, perimeter and label of identified object
+* Identifier, area, perimeter and label of identified object 
