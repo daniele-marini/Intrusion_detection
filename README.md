@@ -53,6 +53,3 @@ Also, we generate a txt file that include identified objects information:
 * Identifier, area, perimeter and label of identified object 
 
 ![res (1)](https://user-images.githubusercontent.com/88623698/215541389-c9bea3c7-ac8f-4270-8e8c-043129da6ec4.gif)
-
-
-
