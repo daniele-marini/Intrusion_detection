@@ -51,3 +51,6 @@ Also, we generate a txt file that include identified objects information:
 * Frame number
 * Number of identified objects
 * Identifier, area, perimeter and label of identified object 
+
+[res.gif](https://github.com/DANIELEMARINI99/Intrusion_detection/files/10537959/res.gif.zip)
+
