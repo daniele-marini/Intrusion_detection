@@ -46,5 +46,5 @@ To accomplish the detection of the intruder different techniques have been emplo
 
 As result we get the video with the contour of the intruder highlighted and the objects moved (e.g. removed or added) from the subject
 
-[res.gif.zip](https://github.com/DANIELEMARINI99/Intrusion_detection/files/10533977/res.gif.zip)
+
 
