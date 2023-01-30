@@ -1,0 +1,1985 @@
+0	1
+0	18203		722		Person
+
+1	1
+0	17516		664		Person
+
+2	1
+0	16254		660		Person
+
+3	1
+0	14829		842		Person
+
+4	1
+0	14198		830		Person
+
+5	1
+0	14612		734		Person
+
+6	1
+0	15836		807		Person
+
+7	1
+0	15890		779		Person
+
+8	1
+0	15625		744		Person
+
+9	1
+0	15562		709		Person
+
+10	1
+0	15452		673		Person
+
+11	1
+0	14868		660		Person
+
+12	1
+0	13732		570		Person
+
+13	1
+0	12740		570		Person
+
+14	1
+0	10419		678		Person
+
+15	1
+0	10247		561		Person
+
+16	1
+0	9554		522		Person
+
+17	1
+0	8967		516		Person
+
+18	1
+0	8246		626		Person
+
+19	1
+0	8324		520		Person
+
+20	1
+0	8629		513		Person
+
+21	1
+0	8860		520		Person
+
+22	1
+0	9188		532		Person
+
+23	1
+0	9718		538		Person
+
+24	1
+0	10088		586		Person
+
+25	1
+0	10652		598		Person
+
+26	1
+0	10971		611		Person
+
+27	1
+0	11916		569		Person
+
+28	1
+0	12456		553		Person
+
+29	1
+0	12300		607		Person
+
+30	1
+0	12678		616		Person
+
+31	1
+0	12307		680		Person
+
+32	1
+0	11867		663		Person
+
+33	1
+0	13042		582		Person
+
+34	1
+0	12624		622		Person
+
+35	1
+0	13306		589		Person
+
+36	1
+0	13997		643		Person
+
+37	1
+0	15350		714		Person
+
+38	2
+0	220		62		Other
+1	16083		758		Person
+
+39	2
+0	330		75		Other
+1	14481		1002		Person
+
+40	1
+0	15502		853		Person
+
+41	2
+0	302		74		Other
+1	14379		824		Person
+
+42	2
+0	752		117		Other
+1	14434		786		Person
+
+43	1
+0	15655		978		Person
+
+44	2
+0	1418		177		Other
+1	13916		762		Person
+
+45	1
+0	13192		852		Person
+
+46	1
+0	12943		626		Person
+
+47	1
+0	9940		624		Person
+
+48	1
+0	7294		723		Person
+
+49	3
+0	4084		512		Other
+1	524		110		Other
+2	1316		192		Other
+
+50	2
+0	3594		436		Other
+1	2255		271		Other
+
+51	1
+0	5852		605		Other
+
+52	1
+0	6622		569		Person
+
+53	1
+0	9066		633		Person
+
+54	1
+0	11364		628		Person
+
+55	1
+0	12124		819		Person
+
+56	1
+0	13282		626		Person
+
+57	3
+0	227		65		Other
+1	190		58		Other
+2	11502		764		Person
+
+58	2
+0	382		92		Other
+1	11938		882		Person
+
+59	1
+0	12586		997		Person
+
+60	1
+0	12365		746		Person
+
+61	1
+0	12574		711		Person
+
+62	1
+0	12832		618		Person
+
+63	1
+0	12872		601		Person
+
+64	1
+0	12940		576		Person
+
+65	1
+0	12295		590		Person
+
+66	1
+0	11860		617		Person
+
+67	1
+0	10312		666		Person
+
+68	1
+0	10618		596		Person
+
+69	1
+0	10670		621		Person
+
+70	1
+0	11178		630		Person
+
+71	1
+0	11933		636		Person
+
+72	1
+0	14064		668		Person
+
+73	1
+0	14924		826		Person
+
+74	1
+0	15524		810		Person
+
+75	1
+0	15424		777		Person
+
+76	2
+0	476		106		Other
+1	15252		801		Person
+
+77	2
+0	508		105		Other
+1	15995		686		Person
+
+78	2
+0	348		92		Other
+1	16156		683		Person
+
+79	1
+0	16989		725		Person
+
+80	1
+0	17118		825		Person
+
+81	2
+0	598		108		Other
+1	16043		713		Person
+
+82	2
+0	503		92		Other
+1	15630		805		Person
+
+83	2
+0	545		102		Other
+1	16134		808		Person
+
+84	2
+0	470		86		Other
+1	16200		777		Person
+
+85	1
+0	16145		885		Person
+
+86	1
+0	16314		818		Person
+
+87	1
+0	15670		967		Person
+
+88	2
+0	210		61		Other
+1	16953		888		Person
+
+89	1
+0	17890		863		Person
+
+90	1
+0	16498		853		Person
+
+91	2
+0	114		50		Other
+1	14612		792		Person
+
+92	1
+0	13298		789		Person
+
+93	2
+0	344		91		Other
+1	11354		704		Person
+
+94	1
+0	10638		714		Person
+
+95	1
+0	10770		631		Person
+
+96	1
+0	11085		650		Person
+
+97	2
+0	342		94		Other
+1	10956		701		Person
+
+98	1
+0	12766		813		Person
+
+99	1
+0	12851		707		Person
+
+100	1
+0	9974		876		Person
+
+101	1
+0	11618		982		Person
+
+102	1
+0	12373		993		Person
+
+103	1
+0	12480		721		Person
+
+104	1
+0	12624		711		Person
+
+105	1
+0	13116		757		Person
+
+106	1
+0	12696		606		Person
+
+107	1
+0	12829		609		Person
+
+108	1
+0	13218		606		Person
+
+109	1
+0	12786		611		Person
+
+110	1
+0	14406		603		Person
+
+111	1
+0	14139		692		Person
+
+112	2
+0	553		135		Other
+1	13103		766		Person
+
+113	1
+0	14496		822		Person
+
+114	2
+0	554		115		Other
+1	13608		584		Person
+
+115	1
+0	14131		706		Person
+
+116	1
+0	14668		622		Person
+
+117	1
+0	14758		606		Person
+
+118	1
+0	14858		610		Person
+
+119	1
+0	14598		601		Person
+
+120	1
+0	14329		596		Person
+
+121	1
+0	13224		777		Person
+
+122	1
+0	11678		593		Person
+
+123	1
+0	10176		562		Person
+
+124	1
+0	9533		542		Person
+
+125	1
+0	9288		526		Person
+
+126	1
+0	8938		520		Person
+
+127	1
+0	8878		507		Person
+
+128	1
+0	8362		520		Person
+
+129	1
+0	8516		514		Person
+
+130	1
+0	8580		504		Person
+
+131	1
+0	8717		507		Person
+
+132	1
+0	8957		544		Person
+
+133	1
+0	9586		514		Person
+
+134	1
+0	10250		524		Person
+
+135	1
+0	10969		527		Person
+
+136	1
+0	11664		535		Person
+
+137	1
+0	12116		540		Person
+
+138	1
+0	12383		603		Person
+
+139	1
+0	12546		587		Person
+
+140	1
+0	12587		602		Person
+
+141	1
+0	12470		590		Person
+
+142	1
+0	12108		587		Person
+
+143	1
+0	12123		598		Person
+
+144	1
+0	11910		604		Person
+
+145	1
+0	11682		570		Person
+
+146	1
+0	11252		633		Person
+
+147	1
+0	11236		646		Person
+
+148	1
+0	12478		592		Person
+
+149	1
+0	12480		672		Person
+
+150	1
+0	12980		701		Person
+
+151	1
+0	13411		689		Person
+
+152	1
+0	13842		674		Person
+
+153	1
+0	14018		696		Person
+
+154	1
+0	14302		671		Person
+
+155	1
+0	14625		664		Person
+
+156	1
+0	14558		688		Person
+
+157	1
+0	14620		665		Person
+
+158	1
+0	14424		645		Person
+
+159	1
+0	14550		680		Person
+
+160	1
+0	15096		692		Person
+
+161	1
+0	14211		827		Person
+
+162	1
+0	14496		731		Person
+
+163	1
+0	14508		687		Person
+
+164	1
+0	14408		730		Person
+
+165	1
+0	14319		816		Person
+
+166	1
+0	14015		801		Person
+
+167	2
+0	343		105		Other
+1	13770		780		Person
+
+168	2
+0	348		77		Other
+1	14418		816		Person
+
+169	2
+0	736		120		Other
+1	14630		831		Person
+
+170	2
+0	986		137		Other
+1	16610		751		Person
+
+171	1
+0	17796		884		Person
+
+172	1
+0	16634		1112		Person
+
+173	1
+0	18411		721		Person
+
+174	1
+0	17002		878		Person
+
+175	1
+0	16220		838		Person
+
+176	2
+0	126		54		Other
+1	14422		864		Person
+
+177	1
+0	14000		817		Person
+
+178	1
+0	12326		775		Person
+
+179	1
+0	10607		675		Person
+
+180	1
+0	9486		646		Person
+
+181	1
+0	9188		708		Person
+
+182	1
+0	10509		652		Person
+
+183	1
+0	11512		664		Person
+
+184	1
+0	12689		670		Person
+
+185	1
+0	13050		679		Person
+
+186	1
+0	13352		686		Person
+
+187	1
+0	12132		651		Person
+
+188	2
+0	207		61		Other
+1	12066		671		Person
+
+189	1
+0	12073		699		Person
+
+190	1
+0	12998		750		Person
+
+191	1
+0	13170		741		Person
+
+192	1
+0	13042		785		Person
+
+193	1
+0	12923		739		Person
+
+194	1
+0	12756		684		Person
+
+195	1
+0	13305		694		Person
+
+196	1
+0	13157		664		Person
+
+197	1
+0	13384		611		Person
+
+198	1
+0	13822		586		Person
+
+199	1
+0	14940		659		Person
+
+200	1
+0	15699		682		Person
+
+201	1
+0	15550		700		Person
+
+202	1
+0	14719		869		Person
+
+203	1
+0	14181		725		Person
+
+204	1
+0	14040		810		Person
+
+205	1
+0	14312		679		Person
+
+206	1
+0	13848		664		Person
+
+207	1
+0	13930		579		Person
+
+208	1
+0	14479		575		Person
+
+209	1
+0	14694		573		Person
+
+210	1
+0	14973		584		Person
+
+211	1
+0	15060		603		Person
+
+212	1
+0	14634		600		Person
+
+213	1
+0	13942		630		Person
+
+214	2
+0	278		71		Other
+1	12473		606		Person
+
+215	1
+0	11629		551		Person
+
+216	1
+0	10468		548		Person
+
+217	1
+0	9381		535		Person
+
+218	1
+0	9644		538		Person
+
+219	1
+0	9570		526		Person
+
+220	1
+0	9572		524		Person
+
+221	1
+0	9644		524		Person
+
+222	1
+0	9904		525		Person
+
+223	1
+0	10062		519		Person
+
+224	1
+0	9564		531		Person
+
+225	1
+0	8833		500		Person
+
+226	1
+0	7900		471		Person
+
+227	1
+0	7210		517		Person
+
+228	1
+0	7394		548		Person
+
+229	3
+0	152		54		Other
+1	287		76		Other
+2	7938		570		Person
+
+230	1
+0	9102		703		Person
+
+231	1
+0	9761		746		Person
+
+232	1
+0	10588		805		Person
+
+233	2
+0	152		54		Other
+1	11904		704		Person
+
+234	2
+0	171		56		Other
+1	12056		688		Person
+
+235	1
+0	13120		687		Person
+
+236	2
+0	160		56		Other
+1	13230		657		Person
+
+237	2
+0	112		44		Other
+1	13028		673		Person
+
+238	1
+0	12848		716		Person
+
+239	1
+0	12750		733		Person
+
+240	1
+0	12224		775		Person
+
+241	2
+0	415		94		Other
+1	10842		669		Person
+
+242	2
+0	170		63		Other
+1	9911		624		Person
+
+243	1
+0	9574		667		Person
+
+244	1
+0	8394		548		Person
+
+245	2
+0	126		54		Other
+1	6708		436		Person
+
+246	1
+0	5338		456		Other
+
+247	1
+0	3366		366		Other
+
+248	1
+0	2400		244		Other
+
+249	1
+0	1710		209		Other
+
+250	1
+0	972		177		Other
+
+251	1
+0	312		93		Other
+
+252	0
+
+253	0
+
+254	0
+
+255	1
+0	114		50		Other
+
+256	1
+0	296		78		Other
+
+257	1
+0	438		87		Other
+
+258	1
+0	590		97		Other
+
+259	2
+0	630		112		Other
+1	255		82		Other
+
+260	2
+0	493		96		Other
+1	352		94		Other
+
+261	2
+0	428		88		Other
+1	430		108		Other
+
+262	2
+0	470		92		Other
+1	480		112		Other
+
+263	2
+0	302		74		Other
+1	514		113		Other
+
+264	3
+0	146		55		Other
+1	291		74		Other
+2	530		116		Other
+
+265	3
+0	166		61		Other
+1	290		74		Other
+2	524		112		Other
+
+266	2
+0	618		125		Other
+1	528		115		Other
+
+267	2
+0	890		179		Other
+1	516		113		Other
+
+268	2
+0	1196		208		Other
+1	523		113		Other
+
+269	3
+0	672		117		Other
+1	443		92		Other
+2	554		114		Other
+
+270	2
+0	1356		173		Other
+1	589		118		Other
+
+271	2
+0	1414		174		Other
+1	583		118		Other
+
+272	2
+0	1731		179		Other
+1	531		115		Other
+
+273	2
+0	1857		190		Other
+1	338		96		Other
+
+274	1
+0	1693		205		Other
+
+275	1
+0	1425		201		Other
+
+276	2
+0	846		116		Other
+1	318		82		Other
+
+277	2
+0	867		118		Other
+1	208		68		Other
+
+278	2
+0	867		118		Other
+1	246		73		Other
+
+279	2
+0	886		120		Other
+1	393		88		Other
+
+280	1
+0	1556		216		Other
+
+281	1
+0	1866		206		Other
+
+282	2
+0	242		79		Other
+1	2054		198		Other
+
+283	3
+0	562		99		Other
+1	2462		230		Other
+2	456		116		Other
+
+284	2
+0	3982		425		Other
+1	1229		166		Other
+
+285	2
+0	1090		139		Other
+1	5548		511		Other
+
+286	2
+0	980		189		Other
+1	7215		598		Person
+
+287	1
+0	10146		790		Person
+
+288	3
+0	112		44		Other
+1	236		68		Other
+2	11083		783		Person
+
+289	2
+0	1634		178		Other
+1	11728		756		Person
+
+290	2
+0	1952		186		Other
+1	12294		744		Person
+
+291	2
+0	2767		250		Other
+1	13199		771		Person
+
+292	1
+0	17162		814		Person
+
+293	1
+0	16176		820		Person
+
+294	1
+0	15908		819		Person
+
+295	1
+0	15365		765		Person
+
+296	1
+0	15088		763		Person
+
+297	1
+0	15200		812		Person
+
+298	2
+0	867		118		Other
+1	13084		763		Person
+
+299	2
+0	886		120		Other
+1	12806		855		Person
+
+300	2
+0	888		120		Other
+1	13324		798		Person
+
+301	2
+0	870		118		Other
+1	13816		837		Person
+
+302	2
+0	868		119		Other
+1	13892		818		Person
+
+303	3
+0	120		46		Other
+1	866		118		Other
+2	14186		792		Person
+
+304	2
+0	868		119		Other
+1	14240		815		Person
+
+305	2
+0	866		118		Other
+1	14556		905		Person
+
+306	2
+0	888		120		Other
+1	14316		870		Person
+
+307	3
+0	1194		166		Other
+1	887		120		Other
+2	13107		719		Person
+
+308	2
+0	888		120		Other
+1	14102		874		Person
+
+309	3
+0	640		112		Other
+1	884		120		Other
+2	13584		776		Person
+
+310	2
+0	868		118		Other
+1	14702		869		Person
+
+311	4
+0	248		65		Other
+1	466		90		Other
+2	866		117		Other
+3	14149		743		Person
+
+312	4
+0	168		58		Other
+1	282		68		Other
+2	886		120		Other
+3	15191		734		Person
+
+313	4
+0	209		60		Other
+1	957		147		Other
+2	866		118		Other
+3	14581		649		Person
+
+314	4
+0	352		76		Other
+1	1016		154		Other
+2	870		118		Other
+3	15376		625		Person
+
+315	4
+0	152		54		Other
+1	964		151		Other
+2	866		118		Other
+3	15188		634		Person
+
+316	3
+0	680		110		Other
+1	888		120		Other
+2	15114		633		Person
+
+317	4
+0	171		56		Other
+1	942		145		Other
+2	886		120		Other
+3	14410		672		Person
+
+318	3
+0	1048		153		Other
+1	868		118		Other
+2	14148		699		Person
+
+319	3
+0	1096		157		Other
+1	886		120		Other
+2	14575		597		Person
+
+320	4
+0	152		54		Other
+1	987		149		Other
+2	888		120		Other
+3	13838		576		Person
+
+321	3
+0	1015		154		Other
+1	888		120		Other
+2	13288		576		Person
+
+322	3
+0	1048		157		Other
+1	868		118		Other
+2	12976		561		Person
+
+323	3
+0	1042		156		Other
+1	866		118		Other
+2	12498		563		Person
+
+324	3
+0	1310		203		Other
+1	884		120		Other
+2	12136		629		Person
+
+325	3
+0	1577		179		Other
+1	862		118		Other
+2	12337		636		Person
+
+326	3
+0	1588		179		Other
+1	842		116		Other
+2	12372		642		Person
+
+327	3
+0	1538		169		Other
+1	842		116		Other
+2	12447		558		Person
+
+328	3
+0	1562		170		Other
+1	842		116		Other
+2	12174		554		Person
+
+329	3
+0	1605		179		Other
+1	884		119		Other
+2	11686		558		Person
+
+330	3
+0	1562		175		Other
+1	862		118		Other
+2	10797		553		Person
+
+331	3
+0	1644		180		Other
+1	886		119		Other
+2	10424		564		Person
+
+332	3
+0	1572		172		Other
+1	867		117		Other
+2	10099		515		Person
+
+333	3
+0	1593		178		Other
+1	848		116		Other
+2	9322		555		Person
+
+334	3
+0	1582		176		Other
+1	886		120		Other
+2	8652		530		Person
+
+335	3
+0	1556		175		Other
+1	890		120		Other
+2	8407		478		Person
+
+336	3
+0	1520		169		Other
+1	890		120		Other
+2	8308		452		Person
+
+337	3
+0	1546		175		Other
+1	888		120		Other
+2	8072		439		Person
+
+338	3
+0	1662		182		Other
+1	868		119		Other
+2	7341		408		Person
+
+339	4
+0	56		30		Other
+1	1567		175		Other
+2	890		120		Other
+3	6724		398		Person
+
+340	3
+0	1608		178		Other
+1	890		120		Other
+2	6249		392		Person
+
+341	3
+0	1644		180		Other
+1	888		120		Other
+2	6042		373		Person
+
+342	3
+0	1602		177		Other
+1	887		120		Other
+2	5944		394		Other
+
+343	3
+0	1616		180		Other
+1	890		120		Other
+2	5504		397		Other
+
+344	3
+0	1591		177		Other
+1	891		120		Other
+2	5452		404		Other
+
+345	3
+0	1604		179		Other
+1	891		120		Other
+2	5507		412		Other
+
+346	3
+0	1593		179		Other
+1	890		120		Other
+2	6071		396		Person
+
+347	3
+0	1596		176		Other
+1	887		120		Other
+2	6642		427		Person
+
+348	3
+0	1600		178		Other
+1	892		120		Other
+2	7228		420		Person
+
+349	3
+0	1588		176		Other
+1	888		120		Other
+2	7700		462		Person
+
+350	3
+0	1583		175		Other
+1	887		120		Other
+2	7786		481		Person
+
+351	3
+0	1380		170		Other
+1	888		120		Other
+2	8080		499		Person
+
+352	3
+0	1564		175		Other
+1	884		119		Other
+2	8146		489		Person
+
+353	3
+0	1602		176		Other
+1	886		119		Other
+2	8742		494		Person
+
+354	3
+0	1562		172		Other
+1	866		118		Other
+2	9472		495		Person
+
+355	3
+0	1576		176		Other
+1	864		118		Other
+2	10152		508		Person
+
+356	3
+0	1539		171		Other
+1	867		117		Other
+2	10992		518		Person
+
+357	3
+0	1512		166		Other
+1	883		119		Other
+2	11750		532		Person
+
+358	3
+0	1537		171		Other
+1	862		118		Other
+2	12052		542		Person
+
+359	3
+0	1513		163		Other
+1	862		118		Other
+2	12101		545		Person
+
+360	3
+0	1428		179		Other
+1	862		118		Other
+2	11980		559		Person
+
+361	3
+0	1421		178		Other
+1	883		119		Other
+2	11794		550		Person
+
+362	3
+0	1102		155		Other
+1	884		119		Other
+2	11628		561		Person
+
+363	3
+0	1060		154		Other
+1	844		116		Other
+2	12038		549		Person
+
+364	3
+0	1266		211		Other
+1	846		116		Other
+2	12362		576		Person
+
+365	3
+0	1018		155		Other
+1	864		118		Other
+2	12566		612		Person
+
+366	3
+0	982		150		Other
+1	886		120		Other
+2	12494		633		Person
+
+367	3
+0	967		151		Other
+1	863		118		Other
+2	12713		620		Person
+
+368	3
+0	963		150		Other
+1	886		120		Other
+2	12231		583		Person
+
+369	3
+0	960		148		Other
+1	867		118		Other
+2	11420		561		Person
+
+370	3
+0	882		151		Other
+1	867		118		Other
+2	10374		577		Person
+
+371	3
+0	1018		155		Other
+1	888		120		Other
+2	10582		600		Person
+
+372	3
+0	1034		153		Other
+1	886		120		Other
+2	10448		553		Person
+
+373	3
+0	1026		159		Other
+1	888		120		Other
+2	10602		547		Person
+
+374	3
+0	1047		153		Other
+1	890		120		Other
+2	11620		626		Person
+
+375	3
+0	1063		155		Other
+1	868		118		Other
+2	12660		639		Person
+
+376	3
+0	1080		156		Other
+1	870		118		Other
+2	13636		631		Person
+
+377	3
+0	1075		157		Other
+1	886		120		Other
+2	14318		666		Person
+
+378	3
+0	1106		156		Other
+1	886		120		Other
+2	14476		675		Person
+
+379	4
+0	168		58		Other
+1	1048		155		Other
+2	867		118		Other
+3	13558		591		Person
+
+380	3
+0	1104		159		Other
+1	867		118		Other
+2	13320		568		Person
+
+381	3
+0	1092		160		Other
+1	886		120		Other
+2	13000		566		Person
+
+382	3
+0	1062		155		Other
+1	888		120		Other
+2	12741		547		Person
+
+383	3
+0	1280		201		Other
+1	845		116		Other
+2	12726		551		Person
+
+384	3
+0	1080		155		Other
+1	863		118		Other
+2	12402		547		Person
+
+385	3
+0	1524		168		Other
+1	845		116		Other
+2	12288		596		Person
+
+386	3
+0	1556		174		Other
+1	844		116		Other
+2	12360		570		Person
+
+387	3
+0	1494		187		Other
+1	862		118		Other
+2	12385		566		Person
+
+388	3
+0	1572		175		Other
+1	860		118		Other
+2	12158		552		Person
+
+389	3
+0	1582		176		Other
+1	862		118		Other
+2	11860		550		Person
+
+390	3
+0	1590		179		Other
+1	883		119		Other
+2	11420		552		Person
+
+391	3
+0	1540		175		Other
+1	844		116		Other
+2	10896		550		Person
+
+392	3
+0	1589		179		Other
+1	844		116		Other
+2	9977		546		Person
+
+393	3
+0	1361		170		Other
+1	862		118		Other
+2	8896		525		Person
+
+394	3
+0	1570		177		Other
+1	867		118		Other
+2	7950		510		Person
+
+395	3
+0	1596		177		Other
+1	866		118		Other
+2	7320		502		Person
+
+396	3
+0	1550		174		Other
+1	886		120		Other
+2	7033		497		Person
+
+397	3
+0	1597		177		Other
+1	848		116		Other
+2	6886		493		Person
+
+398	3
+0	1594		180		Other
+1	846		116		Other
+2	6844		487		Person
+
+399	3
+0	1601		177		Other
+1	885		119		Other
+2	7145		487		Person
+
+400	3
+0	1359		171		Other
+1	862		118		Other
+2	7586		487		Person
+
+401	3
+0	1510		191		Other
+1	864		118		Other
+2	8398		502		Person
+
+402	3
+0	1526		172		Other
+1	862		118		Other
+2	9440		504		Person
+
+403	3
+0	1475		169		Other
+1	862		118		Other
+2	10344		515		Person
+
+404	3
+0	1521		165		Other
+1	842		116		Other
+2	11182		530		Person
+
+405	3
+0	1194		157		Other
+1	860		118		Other
+2	11742		534		Person
+
+406	3
+0	1035		154		Other
+1	842		116		Other
+2	12140		533		Person
+
+407	3
+0	964		151		Other
+1	862		118		Other
+2	12258		537		Person
+
+408	3
+0	1020		153		Other
+1	864		118		Other
+2	12134		548		Person
+
+409	3
+0	1250		187		Other
+1	866		118		Other
+2	12165		552		Person
+
+410	3
+0	960		152		Other
+1	846		116		Other
+2	11874		564		Person
+
+411	3
+0	982		150		Other
+1	866		118		Other
+2	12402		569		Person
+
+412	3
+0	1024		153		Other
+1	865		118		Other
+2	12761		586		Person
+
+413	3
+0	1008		151		Other
+1	868		118		Other
+2	13062		602		Person
+
+414	3
+0	833		140		Other
+1	868		118		Other
+2	12894		622		Person
+
+415	3
+0	882		143		Other
+1	888		120		Other
+2	13034		592		Person
+
+416	3
+0	915		147		Other
+1	887		119		Other
+2	13214		578		Person
+
+417	3
+0	1046		150		Other
+1	886		120		Other
+2	13282		571		Person
+
+418	3
+0	1000		153		Other
+1	886		120		Other
+2	13471		564		Person
+
+419	3
+0	990		147		Other
+1	866		118		Other
+2	13710		566		Person
+
+420	3
+0	1002		154		Other
+1	867		118		Other
+2	14216		578		Person
+
+421	3
+0	1147		159		Other
+1	866		118		Other
+2	14160		573		Person
+
+422	3
+0	1150		163		Other
+1	888		120		Other
+2	14152		575		Person
+
+423	3
+0	1160		167		Other
+1	884		120		Other
+2	14056		579		Person
+
+424	3
+0	1209		161		Other
+1	848		116		Other
+2	13732		577		Person
+
+425	3
+0	1267		193		Other
+1	867		118		Other
+2	13324		576		Person
+
+426	3
+0	1154		165		Other
+1	889		119		Other
+2	12784		578		Person
+
+427	3
+0	1110		158		Other
+1	886		120		Other
+2	12352		578		Person
+
+428	3
+0	1218		189		Other
+1	888		120		Other
+2	12039		595		Person
+
+429	4
+0	218		61		Other
+1	1129		157		Other
+2	887		119		Other
+3	11034		556		Person
+
+430	3
+0	1151		163		Other
+1	885		119		Other
+2	11380		547		Person
+
+431	3
+0	1138		160		Other
+1	888		120		Other
+2	11899		564		Person
+
+432	3
+0	1128		161		Other
+1	866		118		Other
+2	13000		578		Person
+
+433	3
+0	1112		156		Other
+1	867		118		Other
+2	14174		603		Person
+
+434	3
+0	1181		154		Other
+1	886		120		Other
+2	14820		679		Person
+
+435	3
+0	1118		157		Other
+1	886		120		Other
+2	14655		699		Person
+
+436	3
+0	1110		158		Other
+1	886		120		Other
+2	14779		729		Person
+
+437	3
+0	1242		196		Other
+1	868		118		Other
+2	14664		660		Person
+
+438	3
+0	1064		153		Other
+1	866		118		Other
+2	13520		576		Person
+
+439	3
+0	1040		157		Other
+1	886		120		Other
+2	13318		615		Person
+
+440	3
+0	1080		157		Other
+1	867		118		Other
+2	12872		601		Person
+
+441	3
+0	1336		205		Other
+1	846		116		Other
+2	12654		591		Person
+
+442	3
+0	1510		168		Other
+1	864		118		Other
+2	12548		562		Person
+
+443	3
+0	1541		173		Other
+1	842		116		Other
+2	12306		562		Person
+
+444	3
+0	1482		164		Other
+1	848		117		Other
+2	12118		557		Person
+
+445	3
+0	1493		169		Other
+1	844		116		Other
+2	11851		549		Person
+
+446	3
+0	1540		170		Other
+1	862		118		Other
+2	11440		544		Person
+
+447	3
+0	1599		179		Other
+1	866		118		Other
+2	10819		542		Person
+
+448	3
+0	1574		172		Other
+1	846		116		Other
+2	9962		523		Person
+
+449	3
+0	1554		175		Other
+1	846		116		Other
+2	8990		508		Person
+
+450	3
+0	1548		170		Other
+1	864		118		Other
+2	7898		501		Person
+
+451	3
+0	1546		169		Other
+1	885		119		Other
+2	7140		493		Person
+
+452	3
+0	1517		168		Other
+1	884		120		Other
+2	6838		494		Person
+
+453	3
+0	1562		175		Other
+1	885		119		Other
+2	6674		494		Person
+
+454	3
+0	1545		177		Other
+1	864		117		Other
+2	6601		497		Person
+
+455	3
+0	1525		171		Other
+1	868		118		Other
+2	6642		495		Person
+
+456	3
+0	1608		178		Other
+1	887		119		Other
+2	6665		491		Person
+
+457	3
+0	1558		174		Other
+1	844		116		Other
+2	6834		483		Person
+
+458	3
+0	1558		175		Other
+1	846		116		Other
+2	7404		491		Person
+
+459	3
+0	1542		171		Other
+1	840		116		Other
+2	8046		500		Person
+
+460	3
+0	1518		170		Other
+1	842		116		Other
+2	8984		511		Person
+
+461	3
+0	1436		160		Other
+1	846		116		Other
+2	9952		524		Person
+
+462	3
+0	1410		158		Other
+1	863		118		Other
+2	10756		532		Person
+
+463	3
+0	1194		158		Other
+1	858		118		Other
+2	11305		539		Person
+
+464	3
+0	1105		156		Other
+1	860		118		Other
+2	11750		534		Person
+
+465	3
+0	1268		201		Other
+1	864		118		Other
+2	11640		539		Person
+
+466	3
+0	1033		155		Other
+1	879		119		Other
+2	11548		540		Person
+
+467	3
+0	1081		154		Other
+1	860		118		Other
+2	11628		546		Person
+
+468	3
+0	972		150		Other
+1	843		116		Other
+2	11444		573		Person
+
+469	3
+0	1076		157		Other
+1	864		118		Other
+2	11838		551		Person
+
+470	3
+0	1003		151		Other
+1	850		117		Other
+2	12144		546		Person
+
+471	3
+0	1073		157		Other
+1	846		116		Other
+2	12458		576		Person
+
+472	3
+0	1064		153		Other
+1	848		116		Other
+2	12820		600		Person
+
+473	3
+0	1022		152		Other
+1	867		118		Other
+2	13098		623		Person
+
+474	3
+0	1040		155		Other
+1	866		118		Other
+2	13335		629		Person
+
+475	3
+0	993		149		Other
+1	888		120		Other
+2	13292		625		Person
+
+476	3
+0	952		153		Other
+1	885		119		Other
+2	12829		590		Person
+
+477	3
+0	1016		153		Other
+1	848		116		Other
+2	11937		571		Person
+
+478	3
+0	994		150		Other
+1	848		116		Other
+2	11204		556		Person
+
+479	3
+0	979		153		Other
+1	846		116		Other
+2	11028		573		Person
+
+480	3
+0	1082		155		Other
+1	867		118		Other
+2	10354		586		Person
+
+481	3
+0	1065		153		Other
+1	867		118		Other
+2	11093		548		Person
+
+482	3
+0	1134		157		Other
+1	846		116		Other
+2	11886		631		Person
+
+483	3
+0	1107		157		Other
+1	888		119		Other
+2	12376		569		Person
+
+484	3
+0	1086		157		Other
+1	848		116		Other
+2	13194		615		Person
+
+485	3
+0	1224		188		Other
+1	888		120		Other
+2	13572		626		Person
+
+486	3
+0	1037		152		Other
+1	888		120		Other
+2	13008		580		Person
+
+487	3
+0	1086		155		Other
+1	884		119		Other
+2	12658		574		Person
+
+488	3
+0	1056		153		Other
+1	867		118		Other
+2	12342		562		Person
+
+489	3
+0	1070		157		Other
+1	868		118		Other
+2	11616		555		Person
+
+490	3
+0	1094		155		Other
+1	883		119		Other
+2	11378		557		Person
+
+491	3
+0	1174		191		Other
+1	866		117		Other
+2	11066		561		Person
+
+492	3
+0	1006		151		Other
+1	863		118		Other
+2	10675		546		Person
+
+493	4
+0	152		54		Other
+1	1031		151		Other
+2	866		118		Other
+3	10762		539		Person
+
+494	3
+0	1048		157		Other
+1	888		119		Other
+2	10776		561		Person
+
+495	3
+0	990		152		Other
+1	888		119		Other
+2	11598		581		Person
+
+496	3
+0	1119		157		Other
+1	883		119		Other
+2	12096		621		Person
+
+497	3
+0	1097		157		Other
+1	848		116		Other
+2	12958		638		Person
+
+498	3
+0	1162		163		Other
+1	886		120		Other
+2	12518		725		Person
+
+499	3
+0	1107		156		Other
+1	864		118		Other
+2	12897		656		Person
+
+500	3
+0	1196		159		Other
+1	868		118		Other
+2	11755		731		Person
+
+501	3
+0	1244		167		Other
+1	888		120		Other
+2	14274		594		Person
+
