@@ -40,7 +40,7 @@ To accomplish the detection of the intruder different techniques have been emplo
   * Closing, to fill holes in the detected intruder.
 * Contour extraction:
   * Find and draw contours
-*  Features extraction:
+* Features extraction:
   * Area
   * Perimeter
 
