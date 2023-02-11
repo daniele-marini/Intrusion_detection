@@ -10,7 +10,7 @@ Project work for the "Image Processing and Computer Vision" course of the Artifi
 
 ## Problem 
 
-The task is about detecting objects (intruders) that do not belong to a static reference scene (background) and establish which of such objects are persons.
+The task is about detecting objects (intruders) that do not belong to a static reference scene (background), highlight the contours and establish if such objects are persons or objects added/removed from the scene.
 This is achieved by background subtraction and blob labeling process
 
 ## Data
